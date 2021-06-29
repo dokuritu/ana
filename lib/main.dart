@@ -33,7 +33,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Kboyのflutter大学'),
+        title: Text('yasuのflutter大学'),
       ),
       body: Container(
         width: double.infinity,
